@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from picamera import PiCamera
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM)
